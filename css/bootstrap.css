@@ -2577,6 +2577,7 @@ fieldset[disabled] .btn-link:focus {
   border-radius: 6px;
   color: white;
   background: red;
+  font-weight:bold;
 }
 
 .btn-sm,
