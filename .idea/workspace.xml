@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcfd48e5-2352-40cd-9465-6c4f4a188c26" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/customize.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/getting-started.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javascript.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AtlBoroughs.iws" />
@@ -29,7 +34,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="7" selection-start="1077" selection-end="1077" vertical-scroll-proportion="-0.1333992" vertical-offset="570" max-vertical-offset="2790">
+            <state line="10" column="34" selection-start="380" selection-end="380" vertical-scroll-proportion="0.14822134" vertical-offset="0" max-vertical-offset="2790">
               <folding />
             </state>
           </provider>
@@ -61,6 +66,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
@@ -123,20 +129,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="atlboroughs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AtlBoroughs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlboroughs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -240,7 +232,11 @@
       <created>1384618200352</created>
       <updated>1384618200352</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add sections for the boroughs">
+      <created>1384619177734</created>
+      <updated>1384619177734</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -280,7 +276,8 @@
     <MESSAGE value="add link to o4w page and incorporate logo" />
     <MESSAGE value="fix merge issues" />
     <MESSAGE value="add title for main page, remove unused style" />
-    <option name="LAST_COMMIT_MESSAGE" value="add title for main page, remove unused style" />
+    <MESSAGE value="add sections for the boroughs" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sections for the boroughs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -323,7 +320,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="7" selection-start="1077" selection-end="1077" vertical-scroll-proportion="-0.1333992" vertical-offset="570" max-vertical-offset="2790">
+        <state line="10" column="34" selection-start="380" selection-end="380" vertical-scroll-proportion="0.14822134" vertical-offset="0" max-vertical-offset="2790">
           <folding />
         </state>
       </provider>
