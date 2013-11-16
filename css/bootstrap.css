@@ -7099,3 +7099,9 @@ td.visible-print {
     display: none !important;
   }
 }
+
+#button-about {
+    background: silver;
+    color: green;
+    align-content: right;
+}
