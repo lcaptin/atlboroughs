@@ -7101,7 +7101,6 @@ td.visible-print {
 }
 
 #button-about {
-    background: silver;
     color: green;
-    align-content: right;
+    text-align: right;
 }
