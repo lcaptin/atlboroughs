@@ -1318,7 +1318,9 @@ pre code {
     width: 41.66666666666667%;
   }
   .col-md-4 {
-    width: 33.33333333333333%;
+    padding-top: 30px;
+    width: 60%;
+    font-size: 12pt;
   }
   .col-md-3 {
     width: 25%;

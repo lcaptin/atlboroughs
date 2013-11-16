@@ -37,10 +37,19 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="21" selection-start="3439" selection-end="3439" vertical-scroll-proportion="0.77034885" vertical-offset="1095" max-vertical-offset="1734">
+            <state line="81" column="51" selection-start="3491" selection-end="3491" vertical-scroll-proportion="0.3653846" vertical-offset="1187" max-vertical-offset="1734">
               <folding>
                 <element signature="n#style#0;n#p#0;n#footer#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="81" column="0" selection-start="4367" selection-end="4367" vertical-scroll-proportion="-4.0588236" vertical-offset="1170" max-vertical-offset="1717">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -57,7 +66,7 @@
       <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2291" column="24" selection-start="36699" selection-end="36699" vertical-scroll-proportion="-4.76" vertical-offset="38828" max-vertical-offset="120887">
+            <state line="1320" column="19" selection-start="16927" selection-end="16927" vertical-scroll-proportion="-7.96" vertical-offset="22241" max-vertical-offset="120921">
               <folding />
             </state>
           </provider>
@@ -86,6 +95,7 @@
         <option value="$PROJECT_DIR$/oldfourthward.html" />
         <option value="$PROJECT_DIR$/css/stylish-portfolio.css" />
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -247,7 +257,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.6704918" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295082" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -334,13 +344,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2291" column="24" selection-start="36699" selection-end="36699" vertical-scroll-proportion="-4.76" vertical-offset="38828" max-vertical-offset="120887">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oldfourthward.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="177" column="26" selection-start="6824" selection-end="6824" vertical-scroll-proportion="-0.21568628" vertical-offset="2998" max-vertical-offset="4386">
@@ -357,9 +360,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1320" column="19" selection-start="16927" selection-end="16927" vertical-scroll-proportion="-7.96" vertical-offset="22241" max-vertical-offset="120921">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="0" selection-start="4367" selection-end="4367" vertical-scroll-proportion="-4.0588236" vertical-offset="1170" max-vertical-offset="1717">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="21" selection-start="3439" selection-end="3439" vertical-scroll-proportion="0.77034885" vertical-offset="1095" max-vertical-offset="1734">
+        <state line="81" column="51" selection-start="3491" selection-end="3491" vertical-scroll-proportion="0.3653846" vertical-offset="1187" max-vertical-offset="1734">
           <folding>
             <element signature="n#style#0;n#p#0;n#footer#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
