@@ -34,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="51" selection-start="3491" selection-end="3491" vertical-scroll-proportion="0.3653846" vertical-offset="1187" max-vertical-offset="1734">
+            <state line="8" column="4" selection-start="283" selection-end="344" vertical-scroll-proportion="-2.6666667" vertical-offset="0" max-vertical-offset="1734">
               <folding>
                 <element signature="n#style#0;n#p#0;n#footer#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -45,10 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="about.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="0" selection-start="4367" selection-end="4367" vertical-scroll-proportion="-4.0588236" vertical-offset="1170" max-vertical-offset="1717">
+            <state line="78" column="14" selection-start="4529" selection-end="4529" vertical-scroll-proportion="0.575" vertical-offset="1027" max-vertical-offset="1717">
               <folding />
             </state>
           </provider>
@@ -95,8 +95,8 @@
         <option value="$PROJECT_DIR$/oldfourthward.html" />
         <option value="$PROJECT_DIR$/css/stylish-portfolio.css" />
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -367,19 +367,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="0" selection-start="4367" selection-end="4367" vertical-scroll-proportion="-4.0588236" vertical-offset="1170" max-vertical-offset="1717">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="51" selection-start="3491" selection-end="3491" vertical-scroll-proportion="0.3653846" vertical-offset="1187" max-vertical-offset="1734">
+        <state line="8" column="4" selection-start="283" selection-end="344" vertical-scroll-proportion="-2.6666667" vertical-offset="0" max-vertical-offset="1734">
           <folding>
             <element signature="n#style#0;n#p#0;n#footer#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="14" selection-start="4529" selection-end="4529" vertical-scroll-proportion="0.575" vertical-offset="1027" max-vertical-offset="1717">
+          <folding />
         </state>
       </provider>
     </entry>
